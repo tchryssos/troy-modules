@@ -1,0 +1,8 @@
+{
+  "author": "Troy Chryssos <troychryssos@gmail.com>",
+  "name": "@tchryssos/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config for my projects",
+  "main": "index.js",
+  "license": "MIT"
+}
