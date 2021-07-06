@@ -21,7 +21,6 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'prettier',
   ],
-  root: true,
 
   rules: {
     // eslint
